@@ -1,0 +1,119 @@
+.nav-brand{
+    padding-left:50px;
+    text-decoration:none;
+    color:white;
+}
+.navbar-nav{
+    padding-right:50px;
+}
+.nav-link{
+    color:white;
+}
+.nav-link:hover{
+    color:white;
+}
+.header{
+    background-color: black;
+}
+.logo{
+    height:30px;
+    width:30px;
+}
+.leaf{
+    position:relative;
+    left:1000px;
+    height:55%;
+    width: 30%;
+    bottom: 300px;
+}
+.titlename,.titlenamen{
+    color:#57a2d8;
+    font-size:4rem;
+    font-family: 'Castoro Titling', cursive;
+}
+.titlepara{
+    position: relative;
+    top:100px;
+    padding-left:50px;
+}
+.download{
+    height:45px;
+    padding-left: 50px;
+}
+.downloads{
+    position:relative;
+    bottom:500px;
+}
+.awareness,.field,.donate{
+
+    display:inline-block;
+    text-align: center;
+    padding-right:175px;
+}
+.testimonial-img{
+    padding-left:50px;
+    padding-top:150px;
+    color:white;
+}
+.testimonial{
+    position: relative;
+    bottom:350px;
+}
+.description{
+    color:white;
+    position:relative;
+    bottom:100px;
+    padding-left:50px;
+}
+.pictop{
+    padding-top:30px;
+}
+.pg{
+    padding-top:30px;
+}
+.numerics{
+    padding-top: 50px;
+    padding-right:150px;
+    display:inline-block;
+}
+.middle{
+    background-color: white;
+}
+.person{
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+    
+}
+.sagar,.loki,.kumar,.jaya{
+    display: inline-block;
+    padding:50px;
+}
+.profiles{
+ padding-top:70px;
+ padding-left: 60px;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight:lighter;
+}
+.tab{
+    display:inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.bottom{
+    background-color:#57a2d8;
+    color: white;
+}
+.address{
+    display:inline-block;
+    padding-right:100px;
+    padding-top:100px;
+    padding-top: 100px;
+}
+.overall{
+    padding-left:50px;
+}
+.buttun{
+    position: relative;
+    top:50px;
+}
